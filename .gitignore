@@ -5,6 +5,5 @@ uploads/
 data/
 *.h5 
 *.db 
-outputs/ 
 .env 
 EOF
